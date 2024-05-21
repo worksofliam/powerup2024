@@ -2,10 +2,8 @@
 
 dcl-s mytext char(20);
 
-mytext = 'Hello world';
+mytext = 'Hello to Powerup';
 
 dsply mytext;
-
-mytext = 55;
 
 return;
